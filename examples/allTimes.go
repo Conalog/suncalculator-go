@@ -1,8 +1,8 @@
 package main
 
 import (
+	"conalog-suncalculator-go.github.com/conalog/suncalculator-go/sun"
 	"fmt"
-	"github.com/conalog/suncalculator-go/sun"
 	"time"
 )
 
